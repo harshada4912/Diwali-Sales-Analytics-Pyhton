@@ -82,6 +82,7 @@ The following analyses were conducted:
 ---
 
 ## 📂 Project Structure
+
 ├── data/
 │ └── sales_data.csv
 ├── eda_analysis.ipynb
