@@ -1,8 +1,7 @@
 #  Diwali Sales Data Analysis (EDA)
 
 ## 📌 Project Overview
-This project focuses on **Exploratory Data Analysis (EDA)** using Python to analyze customer sales data.  
-The goal is to uncover insights related to customer demographics, product categories, and sales performance using data visualization.
+This project focuses on **Exploratory Data Analysis (EDA)** using Python to analyze customer sales data. The goal is to uncover insights related to customer demographics, product categories, and sales performance using data visualization.
 
 ---
 
@@ -84,8 +83,16 @@ The following analyses were conducted:
 ## 📂 Project Structure
 
 ├── data/
+
 │ └── sales_data.csv
+
 ├── eda_analysis.ipynb
+
 ├── README.md
+
+---
+
+## 📌 Conclusion
+This EDA project provides valuable insights into customer purchasing behavior and sales performance. The findings can help businesses optimize marketing strategies, improve inventory management and increase overall revenue.
 
 ---
